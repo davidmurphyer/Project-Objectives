@@ -1,0 +1,26 @@
+{
+"name": "tanketankeniuniu89-fehuqq",
+"version": "1.0.0",
+"description": "The objective of this project is to provide efficient and reliable solutions to meet the evolving needs of users.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/davidmurphyer/Project-Objectives.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "davidmurphyer",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
